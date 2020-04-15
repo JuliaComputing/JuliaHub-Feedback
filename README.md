@@ -1,2 +1,1 @@
-# JuliaHub
-public repo for filing JuliaHub issues
+This is a public repo for filing [JuliaHub](https://juliahub.com) issues. JuliaHub is based on [JuliaTeam](https://juliacomputing.com/products/juliateam), which is a proprietary product of [Julia Computing](https://juliacomputing.com/about-us). Issues can be filed here: https://github.com/JuliaComputing/JuliaHub/issues.
